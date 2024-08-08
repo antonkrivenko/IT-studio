@@ -27,4 +27,94 @@ img {
 
 textarea {
   resize: none;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 40px 0;
+  border-bottom: 1px solid rgba(161, 161, 161, 0.5);
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+.header-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.nav-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 40px;
+}
+.nav-list-link {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.5px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.hero {
+  padding: 220px 0 265px 0;
+  background: url(/img/Rectangle.png) no-repeat;
+}
+.hero-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.5px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.hero-title {
+  margin: 0 auto;
+  max-width: 829px;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 64.36px;
+  text-align: center;
+  color: #ffffff;
+}
+.hero-link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 auto;
+  width: 200px;
+  height: 45px;
+  background-color: #4985FF;
+  border-radius: 30px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.5px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 50px;
 }/*# sourceMappingURL=main.css.map */
