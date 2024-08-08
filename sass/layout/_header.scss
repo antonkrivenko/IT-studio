@@ -19,5 +19,9 @@
         line-height: 19.5px;
         text-align: left;
         color: #FFFFFF;
+        &:hover{
+            padding-bottom: 40px;
+            border-bottom: 2px solid #FFFFFF;
+        }
     }
 }

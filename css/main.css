@@ -64,6 +64,10 @@ textarea {
   text-align: left;
   color: #FFFFFF;
 }
+.nav-list-link:hover {
+  padding-bottom: 40px;
+  border-bottom: 2px solid #FFFFFF;
+}
 
 .hero {
   padding: 220px 0 265px 0;
