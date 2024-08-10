@@ -71,7 +71,7 @@ textarea {
 
 .hero {
   padding: 220px 0 265px 0;
-  background: url(/img/Rectangle.png) no-repeat;
+  background: url(../img/Rectangle.png) no-repeat;
 }
 .hero-text {
   display: -webkit-box;
