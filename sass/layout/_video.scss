@@ -1,0 +1,51 @@
+.video{
+    padding-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("../../img/Rectangle.png");
+    &-title{
+        font-family: Montserrat;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 52.66px;
+        text-align: center;  
+        margin-bottom: 30px;
+        color: #FFFFFF;      
+    }
+    &-text{
+        font-family: Montserrat;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 25.36px;
+        text-align: center;  
+        margin-bottom: 70px;   
+        color: #FFFFFF; 
+    }
+    &-container-btn{
+        background-image: url("../../img/Rectangle2.4.png");
+        width: 970px;
+        height: 430px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    &-btn{
+       display: flex;
+       width: 300px;
+       height: 100px;
+       background-color: transparent;
+       border: solid 1px #FFFFFF;
+       border-radius: 200px;
+       font-family: Montserrat;
+       font-size: 16px;
+       font-weight: 500;
+       line-height: 25.36px;
+       text-align: left;
+       color: #FFFFFF;
+       justify-content: center;
+       align-items: center;    
+       gap: 21px;   
+    }
+}
