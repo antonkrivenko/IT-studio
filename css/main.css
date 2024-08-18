@@ -71,7 +71,7 @@ textarea {
 
 .hero {
   padding: 220px 0 335px 0;
-  background-image: url("../../img/Rectangle.png");
+  background-image: url("../img/Rectangle.png");
 }
 .hero-text {
   display: -webkit-box;
@@ -509,7 +509,7 @@ textarea {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url("../../img/Rectangle1.png");
+  background-image: url("../img/Rectangle1.png");
   background-repeat: no-repeat;
 }
 .video-title {
@@ -531,7 +531,7 @@ textarea {
   color: #FFFFFF;
 }
 .video-container-btn {
-  background-image: url("../../img/Rectangle2.4.png");
+  background-image: url("../img/Rectangle2.4.png");
   width: 970px;
   height: 430px;
   display: -webkit-box;
