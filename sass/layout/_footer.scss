@@ -24,6 +24,9 @@
             text-align: left;
             color: #999999;
         }
+        &-svg{
+            margin-right: 10px;
+        }
     }
     &-container{
         display: flex;
@@ -62,6 +65,10 @@
             line-height: 22.19px;
             text-align: left;
             color: #999999;            
+        }
+        &-svg{
+            vertical-align: middle;
+            margin-right: 15px;
         }
     }
 }

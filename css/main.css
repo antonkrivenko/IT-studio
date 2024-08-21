@@ -713,6 +713,9 @@ textarea {
   text-align: left;
   color: #999999;
 }
+.footer-list-svg {
+  margin-right: 10px;
+}
 .footer-container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -757,4 +760,8 @@ textarea {
   line-height: 22.19px;
   text-align: left;
   color: #999999;
+}
+.address-list-svg {
+  vertical-align: middle;
+  margin-right: 15px;
 }/*# sourceMappingURL=main.css.map */
