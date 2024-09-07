@@ -74,12 +74,6 @@ textarea {
   background-image: url("../img/Rectangle.png");
 }
 .hero-text {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   font-family: Montserrat;
   font-size: 16px;
   font-weight: 500;
