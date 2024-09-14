@@ -45,7 +45,7 @@
         justify-content: center;
         margin-top: 70px;
         &-item{
-            width: 353px;
+            max-width: 353px;
         }
         &-container{
             display: flex;
@@ -74,8 +74,6 @@
             margin-right: 17px;
             position: relative;
             display: flex;
-            justify-content: center;
-            align-items:center;
             width: 90px;
             padding: 25px; 
             border: 1px solid #E0E0E0;
