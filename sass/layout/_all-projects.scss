@@ -1,13 +1,7 @@
 .all-projects {
-    margin-top: 85px;
     padding-top: 100px;
     padding-bottom: 130px;
     background-color: #F6F6F8;
-    &-text-container{
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-    }
     &-title{
         margin-bottom: 28px;
         font-family: Montserrat;
@@ -25,12 +19,13 @@
         line-height: 25.36px;
         text-align: center;
         color: #999999;
-        margin-bottom: 92px;
+        margin: 0 auto;
     }
     &-list{
         display: flex;
         justify-content: center;
         gap: 30px;
+        margin-top: 92px;
     }
     &-link{
         display: flex;
